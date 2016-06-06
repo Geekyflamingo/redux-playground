@@ -1,1 +1,1 @@
-Small Timer App in React. 
+Redux playground. 
